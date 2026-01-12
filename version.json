@@ -1,5 +1,5 @@
 {
   "version": "1.1",
-  "url": "https://github.com/e1max/HutsulCalendarUpdates/raw/refs/heads/main/HutsCalend.apk"
-  "whatsNew": "Додано підкреслення днів з описом"
+  "url": "https://github.com/e1max/HutsulCalendarUpdates/releases/download/v1.1/app-release.apk",
+  "whatsNew": "• Додано підкреслення днів з описом\n• Оновлено меню налаштувань\n• Виправлено помилки мережі"
 }
